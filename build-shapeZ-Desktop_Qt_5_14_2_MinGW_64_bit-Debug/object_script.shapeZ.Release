@@ -1,0 +1,12 @@
+release/qrc_res.o
+release/gradescene.o
+release/main.o
+release/mainwindow.o
+release/map.o
+release/mylabel.o
+release/store.o
+release/moc_gradescene.o
+release/moc_mainwindow.o
+release/moc_map.o
+release/moc_mylabel.o
+release/moc_store.o
